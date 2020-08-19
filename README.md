@@ -3,7 +3,7 @@ Saving exercises from course 'Go - Aprenda a Programar' course: https://www.yout
 
 ## Exercises
 
-### Exercise 1:
+### Exercise 1-1:
 
 - Utilizando o operador curto de declaração, atribua estes valores às variáveis com os identificadores "x", "y", e "z".
     1. 42
@@ -15,7 +15,7 @@ Saving exercises from course 'Go - Aprenda a Programar' course: https://www.yout
 
 my response link: https://play.golang.org/p/8ZIfwiL2SuT
 
-### Exercise 2:
+### Exercise 1-2:
 
 - Use var para declarar três variáveis. Elas devem ter package-level scope. Não atribua valores a estas variáveis. Utilize os seguintes identificadores e tipos para estas variáveis:
     1. Identificador "x" deverá ter tipo int
@@ -27,7 +27,7 @@ my response link: https://play.golang.org/p/8ZIfwiL2SuT
 
 my response link: https://play.golang.org/p/VE0AgvllJGX
 
-### Exercise 3:
+### Exercise 1-3:
 
 - Utilizando a solução do exercício anterior:
     1. Em package-level scope, atribua os seguintes valores às variáveis:
@@ -40,7 +40,7 @@ my response link: https://play.golang.org/p/VE0AgvllJGX
 
 my response link: https://play.golang.org/p/ZAlRwkPxicZ
 
-### Exercise 4:
+### Exercise 1-4:
 
 - Crie um tipo. O tipo subjacente deve ser int.
 - Crie uma variável para este tipo, com o identificador "x", utilizando a palavra-chave var.
@@ -52,7 +52,7 @@ my response link: https://play.golang.org/p/ZAlRwkPxicZ
 
 my response link: https://play.golang.org/p/AJfMJHpiR3v
 
-### Exercise 5:
+### Exercise 1-5:
 
 - Utilizando a solução do exercício anterior:
     1. Em package-level scope, utilizando a palavra-chave var, crie uma variável com o identificador "y". O tipo desta variável deve ser o tipo subjacente do tipo que você criou no exercício anterior.
@@ -68,3 +68,53 @@ my response link: https://play.golang.org/p/AJfMJHpiR3v
             3. Demonstre o tipo de "y"
 
 my response link: https://play.golang.org/p/FtwafbJ7M-5
+
+### Exercise 2-1:
+
+- Escreva um programa que mostre um número em decimal, binário, e hexadecimal.
+
+my response link: https://play.golang.org/p/kujBqT9TMb4
+
+### Exercise 2-2:
+
+- Escreva expressões utilizando os operadores, e atribua seus valores a variáveis.
+- ==
+- !=
+- >
+- >=
+- <
+- <=
+- Demonstre estes valores.
+
+my response link: https://play.golang.org/p/NHO0GDRDLw-
+
+### Exercise 2-3:
+
+- Crie constantes tipadas e não-tipadas.
+- Demonstre seus valores.
+
+my response link: https://play.golang.org/p/btkhBhecTrX
+
+### Exercise 2-4:
+
+- Crie um programa que:
+    - Atribua um valor int a uma variável
+    - Demonstre este valor em decimal, binário e hexadecimal
+    - Desloque os bits dessa variável 1 para a esquerda, e atribua o resultado a outra variável
+    - Demonstre esta outra variável em decimal, binário e hexadecimal
+
+my response link: https://play.golang.org/p/-Ltr3W2BYSC
+
+### Exercise 2-5:
+
+- Crie uma variável de tipo string utilizando uma raw string literal.
+- Demonstre-a.
+
+my response link: https://play.golang.org/p/7O2nuHL-YRX
+
+### Exercise 2-6:
+
+- Utilizando iota, crie 4 constantes cujos valores sejam os próximos 4 anos.
+- Demonstre estes valores.
+
+my response link: https://play.golang.org/p/oFenlR1Ec4F
